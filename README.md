@@ -45,7 +45,7 @@ You'll need API keys for the following services:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/hyperbooklm.git
+   git clone https://github.com/hyperbrowserai/hyperbooklm.git
    cd hyperbooklm
    ```
 
